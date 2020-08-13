@@ -33,7 +33,7 @@ At last made inference that which type of customers we have.<br>
 
 * ID 2: The people's which made least amount of transaction and also bought least amount of products. It's mean that these peoples are one time buyer's or rarely.
 * ID 3: We can call them royal customers because they made highest transaction and bought highest amount of product. It's mean that they are satisfied with products.
-* ID 0: These people are the ofenly visitors or we can say they are not satisfied and not too much dishearted with products.
+* ID 0: These people are the oftenly visitors or we can say they are not satisfied and not too much dishearted with products.
 * ID 1: These people just lie behind the royal customers. They are somehow satisfied with products.
 ##### Number of customers
 ![visual not found](https://github.com/zeeshan-akram/Online-Retailer-Sales-Clustering/blob/master/customer-each-category.png)
