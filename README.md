@@ -28,7 +28,7 @@ Looked for sales and revenue from different countries, customer who churned, cus
 ## Modeling
 First I scale down data using standard scaler (where mean = 0, standard deviation = 1). Next find optimal number clusters using Elbow method (4 clusters selected).<br>
 At last made inference that which type of customers we have.<br>
-![visual not found](https://github.com/zeeshan-akram/Online-Retailer-Sales-Clustering/blob/master/cluster-analysis.png)
+![visual not found](https://github.com/zeeshan-akram/Online-Retailer-Sales-Clustering/blob/master/cluster-analysis.png)<br>
 **Infrence:**
 
 * ID 2: The people's which made least amount of transaction and also bought least amount of products. It's mean that these peoples are one time buyer's or rarely.
